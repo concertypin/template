@@ -1,3 +1,8 @@
+# How to clone
+```bash
+git clone -b "kotlin-multiplatform" https://github.com/concertypin/template
+```
+
 # How to build
 ## JS
 ```bash
