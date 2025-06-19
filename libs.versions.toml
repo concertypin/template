@@ -1,0 +1,12 @@
+[versions]
+kotlin = "2.1.21"
+
+
+[plugins]
+serialization = { version.ref = "kotlin", id = "org.jetbrains.kotlin.plugin.serialization" }
+kotlin = { version.ref = "kotlin", id = "org.jetbrains.kotlin.multiplatform" }
+
+[libraries]
+sealization-json = "org.jetbrains.kotlinx:kotlinx-serialization-json:1.8.1"
+expressjs = "dev.chriskrueger:kotlin-express:1.2.0"
+[bundles]
