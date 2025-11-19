@@ -1,3 +1,6 @@
+> [!NOTE]
+> This is migrating to [dedicated template organization](https://github.com/con-archived).
+
 # How to use
 ```
 git clone -b "branchNameHere" https://github.com/concertypin/template
